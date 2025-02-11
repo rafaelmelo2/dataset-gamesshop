@@ -14,7 +14,7 @@ Este projeto tem como objetivo analisar dados de vendas provenientes de múltipl
 ## Estrutura do Projeto
 
 - `data/`: Contém os datasets brutos e processados.
-- `prompts/`: Scripts Python para processamento e análise de dados.
+- `prompts/`: Scripts GPTs prontos para processamento e análise de dados.
 - `insights/`: Relatórios gerados a partir das análises, incluindo visualizações.
 - `README.md`: Documento atual com informações gerais sobre o projeto.
 
